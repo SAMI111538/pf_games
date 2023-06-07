@@ -1,0 +1,7 @@
+sa,mi,admin
+asd,fgh,admin
+ayesha,khalid,customer
+ak,k,admin
+,,
+samimalik,malik,admin
+sami,malik,admin
